@@ -17,3 +17,10 @@ print('a' != 'b')
 print(True and True)
 print(True or False)
 print(not False)
+
+#strangely, you can do math with true and false in python
+#normally, you can't add a string to a number or other data types
+# print('pop' + 1) #this causes an error
+#but true and false evaluate to 1 and 0
+print(True + 3)
+print(False + 3)

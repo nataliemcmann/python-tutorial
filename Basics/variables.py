@@ -22,4 +22,4 @@ my_salary = 80217
 # ...camelCase is reserved for class names
 #to know the data type, use type()
 print(type(my_name))
-print(type(result))
+print(type(my_age))
